@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nemiega
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and javaScript
 - 📫 How to reach me via email pvencius@gmail.com
 
 <!---
